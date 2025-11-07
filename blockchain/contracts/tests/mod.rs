@@ -78,7 +78,9 @@ mod tests {
         assert_eq!(platform_config_data.reward_rate, INITIAL_REWARD_RATE, "Reward rate mismatch");
         assert!(platform_config_data.governance_enabled, "Governance should be enabled");
     }
-
+The intent is broadcast across a distributed mesh of relayers.
+Each node validates the intent, aggregates signatures (BLS / Ed25519),
+and collectively produces an Attestation.
 
     //
     "dependencies": {
