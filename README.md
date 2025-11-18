@@ -1,23 +1,25 @@
-# POLYONE
+# NIMBER
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Solana](https://img.shields.io/badge/Solana-Web3-green.svg)](https://solana.com/)
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/yourusername/ontora-ai.svg)](https://github.com/yourusername/ontora-ai/issues)
 
-[![Website](https://img.shields.io/badge/Website-POLYONE-blue?logo=google-chrome)](https://polyone.fun/)
-[![Twitter](https://img.shields.io/badge/Twitter-POLYONE-blue?logo=twitter)](https://x.com/POLYONEPLG)
+[![Website](https://img.shields.io/badge/Website-NIMBER-blue?logo=google-chrome)](https://nimber.fun/)
+[![Twitter](https://img.shields.io/badge/Twitter-NIMBER-blue?logo=twitter)](https://x.com/NIMBERLAB)
 
-```
-CA: vePJBJVXyBvqpQ96LoNon83G6qVApzwK67cs1bmpump
-```
+We are building something new.
 
-POLYONE // The Intelligent Execution Layer for Polymarket
+NIMBER is an intelligent, next-generation evolution of Pumpfun’s mayhem mode — rebuilt from the ground up to replace randomness with structure, transparency, and real on-chain logic.
 
-In the evolving world of prediction markets, Polymarket has become a data-rich environment where decisions, probabilities, and beliefs collide in real time. Yet most interactions remain manual — traders analyze odds, switch tabs, and react emotionally to volatility. POLYONE redefines this dynamic by introducing an intelligent, programmable execution layer that transforms Polymarket into a fully autonomous trading environment.
+Unlike the original mode, which relied on unpredictable fluctuations, NIMBER continuously analyzes early liquidity behaviors, holder growth, transaction patterns, and market signals to generate controlled, responsive actions. 
 
-Built as an open-source protocol and browser plugin, POLYONE allows users to design modular strategies, process live market signals, and execute orders automatically with on-chain verification. It merges data analytics, risk control, and strategy automation into one cohesive system — enabling trades not based on emotion, but on logic and evidence.
+These reactions are not arbitrary; they follow clear, verifiable rules that users can observe and understand.
 
-Through its programmable strategy engine, users can encode decision logic such as Kelly sizing, conditional triggers, and correlation-based hedging. Its real-time analytics layer constantly evaluates probabilities, liquidity, and exposure, delivering precision execution at every step. With autonomous operation, POLYONE doesn’t just react — it learns and adapts, allowing markets to evolve through intelligent feedback loops.
+By transforming raw early-stage volatility into readable signals, NIMBER creates a safer, more interactive environment where chaos becomes a feature rather than a threat.
 
-By combining open architecture, transparency, and autonomy, POLYONE marks a new phase for prediction markets — where trading becomes data-native, strategies become living systems, and every decision on Polymarket can be executed intelligently, verifiably, and at machine speed.
+Its engine stabilizes unhealthy swings, amplifies real momentum, and adapts dynamically to market conditions — all while ensuring that no supply manipulation, contract intervention, or hidden behavior ever occurs.
+
+With transparency dashboards, verifiable logic, and community-driven activation, NIMBER turns early token activity into a more engaging, trustworthy, and data-driven experience.
+
+It doesn’t eliminate chaos — it refines it, giving creators and traders a smarter, upgraded form of mayhem they can actually rely on.
